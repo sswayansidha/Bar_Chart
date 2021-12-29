@@ -1,2 +1,2 @@
-# Bar_Chart
-Implementation of Bar plot.
+# Visualizations
+Implementation different visualizations.
